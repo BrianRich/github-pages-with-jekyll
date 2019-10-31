@@ -1,3 +1,3 @@
-# Welcome to Brian's page
+# Welcome to my blog
 
-## I'm glad you are here. I plan to talk about stuff that doesn't matter!
+I'm glad you are here. I plan to talk about ...
